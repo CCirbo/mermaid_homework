@@ -48,3 +48,4 @@ describe Mermaid do
     # assert that the mermaid age increase by 1 after calling class method get_older 
     expect(mermaid.age).to eq 23
   end
+end

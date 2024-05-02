@@ -8,4 +8,5 @@ class Mermaid
   
     def get_older
       @age += 1
-    end  
+    end 
+end  
